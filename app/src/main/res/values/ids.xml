@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_artist" type="id" />
+    <item name="textViewArtist" type="id" />
+    <item name="linearLayout" type="id" />
+    <item name="seekBarRating" type="id" />
+    <item name="textViewRating" type="id" />
+    <item name="buttonAddTrack" type="id" />
+    <item name="listViewTracks" type="id" />
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294740121063",
+    "project_id": "saudiartist-ec786",
+    "storage_bucket": "saudiartist-ec786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294740121063:android:35ae198248db3f59f51942",
+        "android_client_info": {
+          "package_name": "com.example.saudiartist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294740121063-ivo1gh9bkkoelcf7b6grq5ieada9jsnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1xxlcluiUmeIiHAVWFDhZA-vdiIbADsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294740121063-ivo1gh9bkkoelcf7b6grq5ieada9jsnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
